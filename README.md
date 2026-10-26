@@ -74,7 +74,8 @@ The output is `S(q)` as a function of `qD` (dimensionless, with `D` the cube
 side length).
 
 ---
-
+MoisesZar
+moisesg.zarzoza@uclm.es
 ## Requirements
 
 - Python 3.9+
