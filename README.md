@@ -31,11 +31,21 @@ approximation).
 </p>
 
 <div style="text-align: center;">
-  <img width="600" alt="form_factor_decoupling" src="AQUI_TU_ENLACE_DE_LA_IMAGEN_2" />
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f17bd92d-0e32-4916-8ad9-3d4158203481" />
+
 </div>
 
 <p style="font-size: 14px; text-align: justify;">
 <b>Figure 2:</b> Comparison of the numerically calculated form factor \(P(q)\) and the decoupling parameter \(\langle F(q) \rangle^2\) against the exact values from Dresen et al. <i>(J. Phys. Chem. C, 2021)</i>. The data is plotted against \(q\) using a particle size of \(D = 14\) nm, while the underlying simulation code is dimensionless (\(qD\)).
+</p>
+
+<div style="text-align: center;">
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/86a9ba47-59ce-40ad-9aec-653a8cddf19e" />
+
+</div>
+
+<p style="font-size: 14px; text-align: justify;">
+<b>Figure 3:</b> Static structure factor \(S(q)\) of a hard-cube fluid obtained from HOOMD-blue Monte Carlo simulations, plotted against the dimensionless wave vector \(qL\).
 </p>
 
 ---
