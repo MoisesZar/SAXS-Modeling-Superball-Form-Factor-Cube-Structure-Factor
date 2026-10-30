@@ -114,8 +114,3 @@ side length).
   - [freud](https://freud.readthedocs.io/)
   - [gsd](https://gsd.readthedocs.io/)
   - [fresnel](https://fresnel.readthedocs.io/) (optional, only for rendering)
-
-Install:
-
-```bash
-pip install -r requirements.txt
