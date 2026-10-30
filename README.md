@@ -23,7 +23,7 @@ approximation).
 ## Visuals
 
 <div style="text-align: center;">
-  <img width="400" alt="superball_3d" src="AQUI_TU_ENLACE_DE_LA_IMAGEN_1" />
+  <img width="344" height="340" alt="image" src="https://github.com/user-attachments/assets/001e322c-b6da-4ad8-b3ff-4105e8ad7db1" />
 </div>
 
 <p style="font-size: 14px; text-align: justify;">
